@@ -17,7 +17,7 @@
 
 ## 
 <!--
-![Beto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayjoantony&show_icons=true&count_private=true)
+![Mayjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayjoantony&show_icons=true&count_private=true)
 -->
 
 <!--
