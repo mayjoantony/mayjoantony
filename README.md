@@ -1,5 +1,5 @@
 # Hi, I'm Mayjo 👋
-### I am a passionate Software Developer who enjoys spending countless hours coding
+### I am a passionate Full Stack Developer who enjoys spending countless hours coding
 - 💡 My brain is a tech sponge, always soaking up new knowledge and skills.
 - ➕ Jedi Coder: ReactJS, AngularJS, NodeJS, TypeScript, Python (ML/AI too!), building bridges  between front/back-end realms.
 - 👨🏻‍💻 Data Sherlock: Python's my magnifying glass, ensuring data integrity with ️ ETL expertise.
