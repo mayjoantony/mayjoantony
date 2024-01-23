@@ -1,11 +1,11 @@
-# Hi, I'm Mayjo 👋
+# Hi, I'm Mayjo Antony👋
 ### I am a passionate Full Stack Developer who enjoys spending countless hours coding
 - 💡 My brain is a tech sponge, always soaking up new knowledge and skills.
-- ➕ Jedi Coder: ReactJS, AngularJS, NodeJS, TypeScript, Python (ML/AI too!), building bridges  between front/back-end realms.
-- 👨🏻‍💻 Data Sherlock: Python's my magnifying glass, ensuring data integrity with ️ ETL expertise.
-- ✅ Quality Guardian: Unit testing is my laser sword ⚔️, slaying bugs in interfaces & code for flawless results.
-- ✨ Agile Alchemist: Collaboration & innovation  brew exceptional web apps in dynamic labs.
-- ♟ Fun fact: I like to play chess even though I'm not so good
+- ➕ **Jedi Coder:** ReactJS, AngularJS, NodeJS, TypeScript, Python (ML/AI too!), building bridges  between front/back-end realms.
+- 👨🏻‍💻 **Data Sherlock:** Python's my magnifying glass, ensuring data integrity with ️ ETL expertise.
+- ✅ **Quality Guardian:** Unit testing is my laser sword ⚔️, slaying bugs in interfaces & code for flawless results.
+- ✨ **Agile Alchemist:** Collaboration & innovation  brew exceptional web apps in dynamic labs.
+- ♟ **Fun fact:** I like to play chess even though I'm not so good
 - 🔍 Learn more about me [**here**](https://mayjoantony.com)
 
 ### Connect with me
